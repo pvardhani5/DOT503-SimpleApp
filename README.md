@@ -1,1 +1,0 @@
-# DOT503-SimpleApp
