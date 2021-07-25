@@ -1,5 +1,4 @@
 {
-
     "compilerOptions": {
         "module": "commonjs",
         "esModuleInterop": true,
@@ -8,7 +7,7 @@
         "moduleResolution": "node",
         "sourceMap": true,
         "outDir": "dist",
-        "baseUrl": "-",
+        "baseUrl": ".",
         "paths": {
             "*": [
                 "node_modules/*"
