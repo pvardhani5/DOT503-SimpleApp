@@ -1,6 +1,6 @@
 # DOT503 SimpleApp - Instructions to build and run
 
-# Author: Student NAME
+# Author: Naga Vardhani
 
 
 # --- 
@@ -11,7 +11,7 @@ Instructions: Using Docker ---
   - Docker installed
 
 # Step 1: Clone the respository
-git clone https://github.com/studentname34/DOT503-SimpleApp.git
+git clone https://github.com/pvardhani5/DOT503-SimpleApp.git
 cd DOT503-SimpleApp
 
 # Step 2: Build the image
