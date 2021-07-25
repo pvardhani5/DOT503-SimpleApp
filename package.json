@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/studentname34/DOT503.git"
+    "url": "git+https://github.com/pvardhani5/DOT503.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/studentname34/DOT503/issues"
+    "url": "https://github.com/pvardhani5/DOT503/issues"
   },
-  "homepage": "https://github.com/studentname34/DOT503#readme",
+  "homepage": "https://github.com/pvardhani5/DOT503#readme",
   "dependencies": {
     "@types/jest": "^26.0.15",
     "express": "^4.17.1"
