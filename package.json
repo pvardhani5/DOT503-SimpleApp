@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pvardhani5/DOT503.git"
+    "url": "git+https://github.com/pvardhani5/DOT503-SimpleApp.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pvardhani5/DOT503/issues"
+    "url": "https://github.com/pvardhani5/DOT503-SimpleApp/issues"
   },
-  "homepage": "https://github.com/pvardhani5/DOT503#readme",
+  "homepage": "https://github.com/pvardhani5/DOT503-SimpleApp#readme",
   "dependencies": {
     "@types/jest": "^26.0.15",
     "express": "^4.17.1"
