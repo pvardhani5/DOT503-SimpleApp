@@ -1,18 +1,15 @@
 
 {
-  "name": "DOT503",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
-  "jest": {
-    "testMatch": [ "**/__tests__/**/*.js?(x)", "**/?(*.)+(spec|test).js?(x)" ]
-  },
+  
   "scripts": {
     "prebuild": "tslint -c tslint.json -p tsconfig.json --fix",
     "build": "tsc",
     "prestart": "npm run build",
     "start": "node .",
-    "test": "jest"
+    "test": ""echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
