@@ -6,7 +6,7 @@ export function isPrime(num: number) {
 
 export function isEven(num: number) {
     // check if number is even
-    if (num%2 === 0) return true
+    if (num%2 === 0) return false
     return false
 }
 
